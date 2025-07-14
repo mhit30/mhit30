@@ -2,7 +2,7 @@
 
 📚 I am a rising Junior at Boston University, majoring in Computer Science and minoring in Statistics. 
 
-🧐 I am interested in backend development and systems design, figuring out how to build robust, scalable, and high-performance systems that meet real-world demands.
+🧐 I am interested in AI/ML, backend development and systems design like figuring out how to build robust, scalable, and high-performance systems that meet real-world demands.
 
 💻 I am proficient in Python, JavaScript, and Java, and I have hands-on experience using frameworks like Django, React, Express, and Node. I also have extensive experience with database systems, with plenty of work in both SQL and NoSQL databases.
 
@@ -26,6 +26,15 @@
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/-FAISS-0099CC?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/-Qdrant-FF4C2B?style=for-the-badge&logo=qdrant&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=for-the-badge)
+![Numpy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -35,8 +44,10 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/-BullMQ-DD0031?style=for-the-badge)
 
 ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![ECS](https://img.shields.io/badge/-AWS%20ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
