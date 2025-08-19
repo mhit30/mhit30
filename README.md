@@ -10,7 +10,7 @@
 
 [![LinkedIn: Mohammed Hit](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-hit/)](https://www.linkedin.com/in/mohammed-hit/)
 [![GitHub: mhit30](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/mhit30)](https://github.com/mhit30)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mhit@bu.edu)](mailto:mhit@bu.edu)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mohammedhit30@gmail.com)](mailto:mohammedhit30@gmail.com)
 
 ---
 
