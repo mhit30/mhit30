@@ -62,10 +62,11 @@
 
 Here are a few of my favorite projects:
 
-- **QuickKanban** – A real-time, high-performance collaborative Kanban board with live socket updates.  
+- **[QuickKanban](https://github.com/mhit30/quickkanban/)** – A real-time, high-performance collaborative Kanban board with live socket updates.  
 - **[MissedConnections](https://missedconnections.tech)** – A app that leverages geolocation, shared interests, and daily routines to facilitate passive matching for students seeking friendships.
-- **MiniLambda** - A serverless job orchestrator for asynchronous tasks using directed acylic graphs.  
-- **CollegeCarpool** – A rideshare platform for college students to find carpool partners.
+- **[MiniLambda](https://github.com/mhit30/minilambda/)** - A serverless job orchestrator for asynchronous tasks using directed acylic graphs.  
+- **[CollegeCarpool](https://www.collegecarpool.tech/landing)** – A rideshare platform for college students to find carpool partners.
+- **[MCP Video Caption Burner](https://github.com/mhit30/mcp-video-caption-burner)** - An MCP server to Al agents to autonomously orchestrate tasks and burn captions onto any videos.
 
 Feel free to explore my repositories!
 
