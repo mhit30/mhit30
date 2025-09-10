@@ -1,6 +1,6 @@
 # Hi there, I'm Mohammed Hit 👋
 
-📚 I am a rising Junior at Boston University, majoring in Computer Science and minoring in Statistics. 
+📚 I am a Junior at Boston University, majoring in Computer Science and minoring in Statistics. 
 
 🧐 I am interested in AI/ML, backend development and systems design like figuring out how to build robust, scalable, and high-performance systems that meet real-world demands.
 
