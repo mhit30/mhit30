@@ -2,7 +2,7 @@
 
 🤖 I build AI-powered backend systems that work at scale :)
 
-📚 I'm a rising Senior at Boston University, majoring in Computer Science. I'm passionate about the intersection of AI and backend engineering. My focus is building robust, scalable systems like RAG pipelines and vector search engines that power real-time, distributed applications. 
+📚 I'm a Senior at Boston University, majoring in Computer Science. I'm passionate about the intersection of AI and backend engineering. My focus is building robust, scalable systems like RAG pipelines and vector search engines that power real-time, distributed applications. 
 
 👨‍💻 I am proficient in Python, JavaScript, and Java, and I have hands-on experience using frameworks like FastAPI, Express.js, Django, Node.js, with deep integration with PostgreSQL, MongoDB, Redis, and vector databases like Qdrant!
 
